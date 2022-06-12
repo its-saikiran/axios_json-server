@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "name": "the-freak-coder",
+    "email": "saikiran20@navgurukul.org",
+    "password": "ironman"
+  },
+  "books": [
+    {
+      "id": "1",
+      "name": "the book thief",
+      "author": "markus zusak"
+    }
+  ]
+}

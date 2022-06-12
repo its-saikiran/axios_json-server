@@ -1,0 +1,20 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "description": "just learning how to do crud operations with axios of json-server",
+  "main": "crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon crud.js"
+  },
+  "author": "saikiran",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "json-server": "^0.17.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
